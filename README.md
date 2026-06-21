@@ -126,5 +126,3 @@ The Food Delivery Analytics Dashboard demonstrates practical business intelligen
 ## 👤 Author
 
 **Archana K**
-
-Power BI | Data Analytics | Business Intelligence
